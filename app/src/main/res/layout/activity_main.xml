@@ -81,7 +81,6 @@
             android:layout_marginTop="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:clickable="false"
             android:gravity="center"
             android:orientation="vertical">
 
@@ -97,8 +96,6 @@
                     android:layout_height="match_parent"
                     android:gravity="center"
                     android:background="@drawable/block_init"
-                    android:clickable="false"
-
                     />
 
                 <TextView
@@ -107,23 +104,21 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn02"
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
 
                 <TextView
                     android:id="@+id/btn03"
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
             </LinearLayout>
 
             <LinearLayout
@@ -137,8 +132,7 @@
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
 
                 <TextView
                     android:id="@+id/btn11"
@@ -146,7 +140,7 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn12"
@@ -154,15 +148,14 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn13"
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
             </LinearLayout>
 
 
@@ -178,7 +171,7 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn21"
@@ -186,7 +179,7 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn22"
@@ -194,15 +187,14 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn23"
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
             </LinearLayout>
 
             <LinearLayout
@@ -217,7 +209,7 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn31"
@@ -225,15 +217,14 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
 
                 <TextView
                     android:id="@+id/btn32"
                     android:layout_width="80dp"
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
-                    android:gravity="center"
-                    android:clickable="false" />
+                    android:gravity="center" />
 
                 <TextView
                     android:id="@+id/btn33"
@@ -241,7 +232,7 @@
                     android:layout_height="match_parent"
                     android:background="@drawable/block_init"
                     android:gravity="center"
-                    android:clickable="false" />
+                    />
             </LinearLayout>
 
 
@@ -256,5 +247,4 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
-
 </LinearLayout>
